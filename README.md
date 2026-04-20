@@ -1,7 +1,6 @@
 # Olá 👋, Meu nome é João Pedro! 
 
-🚀 **Systems Analysis and Development**  
-🇧🇷 Brazil
+🚀 **Junior Systems Analyst**
 
 ---
 
