@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-@JOTA.1703-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/joaopedro-assis/">
-    <img src="https://img.shields.io/badge/LinkedIn-JoãoPedro-Assis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-JoãoPedroAssis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
